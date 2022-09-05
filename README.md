@@ -42,3 +42,6 @@ login to mysql database and create babycare database;
 > navigate to Manager App
 > Choose a war to deploy 
 > click deploy
+
+### Dockerfile, Docker-compose and deployment should be on Kubernetes
+### Also use Sonarqube
